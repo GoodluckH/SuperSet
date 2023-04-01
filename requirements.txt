@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+pymupdf
+python-dotenv
+tiktoken
+markdown2
+xhtml2pdf
