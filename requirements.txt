@@ -6,3 +6,6 @@ python-dotenv
 tiktoken
 markdown2
 xhtml2pdf
+fastapi
+uvicorn[standard]
+python-multipart
