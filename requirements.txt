@@ -6,3 +6,4 @@ python-dotenv
 tiktoken
 markdown2
 xhtml2pdf
+streamlit-tree-select
